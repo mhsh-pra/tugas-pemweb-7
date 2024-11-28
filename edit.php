@@ -26,6 +26,7 @@ if (isset($_POST['update'])) {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="assets/css/styleedit.css">
     <title>Edit Produk</title>
 </head>
 <body>
